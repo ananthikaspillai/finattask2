@@ -65,3 +65,5 @@ const BinaryComponent= () => {
 };
 
 export default BinaryComponent;
+
+
